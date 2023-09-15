@@ -100,10 +100,10 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: contact
+ # - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contato
       subtitle:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
