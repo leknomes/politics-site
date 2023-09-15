@@ -16,7 +16,7 @@ main:
   - name: Publicações
     url: '#featured'
     weight: 50
-  - name: Contact
+  - name: Contato
     url: '#contact'
     weight: 60
   - name: Entrevistas e Eventos
