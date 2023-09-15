@@ -158,7 +158,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
+ - block: collection
     content:
       title: Recent Publications
       text: |-
@@ -172,6 +172,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: collection
     id: talks
     content:
