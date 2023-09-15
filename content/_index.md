@@ -26,16 +26,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Entrevistas e Eventos
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
 - block: collection
     id: posts
     content:
