@@ -12,21 +12,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
-    id: featured
-    content:
-      title: Publicações
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-- block: collection
     id: posts
     content:
       title: Recent Posts
@@ -81,6 +66,21 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: featured
+    content:
+      title: Publicações
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     content:
       title: Participações
       filters:
@@ -90,6 +90,16 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: collection
+    id: talks
+    content:
+      title: Entrevistas e Eventos
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
