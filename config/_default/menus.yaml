@@ -13,9 +13,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  # - name: Projetos e Participações
-   # url: '#featured'
-    # weight: 50
+  - name: Projetos e Participações
+    url: '#featured'
+    weight: 50
   - name: Entrevistas
     url: '#talks'
     weight: 40
