@@ -150,7 +150,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Participações em Publicações
       filters:
         folders:
           - publication
