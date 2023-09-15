@@ -100,7 +100,7 @@ sections:
     design:
       columns: '2'
       view: compact
- # - block: contact
+  - block: contact
     id: contact
     content:
       title: Contato
