@@ -66,6 +66,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: featured
     content:
       title: Publicações
       text: |-
@@ -80,7 +81,6 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: featured
     content:
       title: Participações
       filters:
