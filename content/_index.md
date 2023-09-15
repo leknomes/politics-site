@@ -105,7 +105,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: carmoguisilva@gmail.com
       contact_links:
         - icon: twitter
           icon_pack: fab
