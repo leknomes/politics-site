@@ -139,7 +139,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
+  # - block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -175,7 +175,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Entrevistas
       filters:
         folders:
           - event
