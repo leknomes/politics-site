@@ -160,7 +160,7 @@ sections:
       view: card
  - block: collection
     content:
-      title: Recent Publications
+      title: Publicações Recentes
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -172,7 +172,6 @@ sections:
     design:
       columns: '2'
       view: citation
-
   - block: collection
     id: talks
     content:
