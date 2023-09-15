@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: cv
     icon_pack: ai
-    link: https://buscatextual.cnpq.br/buscatextual/visualizacv.do
+    link: http://lattes.cnpq.br/4691243814521369
 organizations:
   - name: Universidade Federal De São Carlos (UFSCAR)
     url: https://www.ufscar.br/
