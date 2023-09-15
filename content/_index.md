@@ -1,10 +1,9 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Lucy Oliveira
+title: Lucy OLiveira
 date: 2022-10-24
 type: landing
 
-sections:
   - block: about.biography
     id: about
     content:
@@ -88,7 +87,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Publicações Recentes
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -115,7 +114,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Projetos
       filters:
         folders:
           - project
@@ -139,28 +138,20 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  # - block: markdown
-   # content:
-   #   title: Gallery
-   #   subtitle: ''
-  #    text: |-
- #       {{< gallery album="demo" >}}
- #   design:
-   #   columns: '1'
-  # - block: collection
-   # id: featured
-   # content:
-    #  title: Participações
-     # filters:
-      #  folders:
-       #   - publication
-       # featured_only: true
-   # design:
-    #  columns: '2'
-     # view: card
- - block: collection
+  - block: collection
+    id: featured
     content:
-      title: Publicações Recentes
+      title: Participações
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title:Publicações Recentes
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -172,42 +163,42 @@ sections:
     design:
       columns: '2'
       view: citation
-# - block: collection
- # id: talks
-  #  content:
-   #   title: Entrevistas
-    #  filters:
-     #   folders:
-      #    - event
-   # design:
-    # columns: '2'
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
       view: compact
- # - block: tag_cloud
-  #  content:
-   #   title: Popular Topics
-   # design:
-     # columns: '2'
- # - block: contact
-  #  id: contact
-   # content:
-    #  title: Contact
-     # subtitle:
-     # text: |-
-      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-     # email: test@example.org
-     # phone: 888 888 88 88
-     # appointment_url: 'https://calendly.com'
-     # address:
-     #   street: 450 Serra Mall
-      #  city: Stanford
-       # region: CA
-        #postcode: '94305'
-       # country: United States
-       # country_code: US
-     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-     # office_hours:
-     #   - 'Monday 10:00 to 13:00'
+      email: test@example.org
+      phone: 888 888 88 88
+      appointment_url: 'https://calendly.com'
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
