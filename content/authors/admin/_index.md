@@ -24,13 +24,13 @@ education:
   courses:
     - course: Doutorado em Ciencia Politica
       institution: Universidade Federal de São Carlos
-      year: -1
+      year: "2017"
     - course: Mestrado em Sociologia
       institution: Universidade Federal de Alagoas
-      year: ""
+      year: "2011"
     - course: Graduação em Jornalismo
       institution: Universidade Federal de Alagoas
-      year: ""
+      year: "2004"
 superuser: true
 status:
   icon: ☕️
