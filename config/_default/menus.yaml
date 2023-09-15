@@ -19,7 +19,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: Entrevistas
+  - name: Entrevistas e Eventos
     url: '#talks'
     weight: 40
 
