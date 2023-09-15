@@ -93,7 +93,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Conversas e Debates
+      title: Entrevistas e Debates
       filters:
         folders:
           - event
