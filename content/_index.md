@@ -106,7 +106,7 @@ sections:
       title: Contato
       # Contact (add or remove contact options as necessary)
       email: test@example.org
-     # contact_links:
+      contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
