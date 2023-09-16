@@ -90,8 +90,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Cursos
+          tag: Cursos
         - name: Other
           tag: Demo
     design:
