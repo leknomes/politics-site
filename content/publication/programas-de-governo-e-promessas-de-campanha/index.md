@@ -6,7 +6,6 @@ authors:
   - admin
   - Simone Diniz
 doi: 10.1590/1678-987320287606
-url_pdf: https://revistas.ufpr.br/rsp/article/view/81808/44183
 publication: Revista Sociologia e Política
 abstract: "O artigo analisa os programas de governo dos candidatos eleitos para
   a Presidência da República no Brasil entre 1994 e 2006. Verificamos se eles
@@ -41,10 +40,11 @@ abstract: "O artigo analisa os programas de governo dos candidatos eleitos para
   exploratório e documental, esperamos que sirva como base para o
   desenvolvimento de futuras pesquisas sobre promessas de campanha."
 draft: false
+url_pdf: https://revistas.ufpr.br/rsp/article/view/81808/44183
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-09-16T15:36:30.344Z
+date: 2023-09-16T16:14:30.344Z
 ---
