@@ -8,7 +8,7 @@ authors:
   - admin
   - Eduardo Felipe Pagnan Vieira
 tags:
-  - cursos
+  - Cursos
 links:
   - url: https://www.fafich.ufmg.br/~mq/2023/06/28/ementa-analise-textual-com-iramuteq/
     name: Ementa do Curso
