@@ -1,6 +1,6 @@
 ---
-title: NA PAUTA ENTREVISTA – PESQUISA E CAPACITAÇÃO EM JORNALISMO FEMINISTA E
-  ANTIRRACISTA
+title: Na Pauta Entrevista – Pesquisa e Capacitação em Jornalismo Feminista e
+  Antirracista
 abstract: Qual a relação entre a mídia e as lutas por justiça social? De que
   forma o conteúdo divulgado pode trazer reflexos à sociedade? E qual a melhor
   forma de fazer da mídia um canal de busca pela igualdade, pela democracia? As
