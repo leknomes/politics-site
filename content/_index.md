@@ -76,7 +76,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projetos??
+      title: Projetos
       filters:
         folders:
           - project
