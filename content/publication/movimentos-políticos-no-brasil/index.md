@@ -7,7 +7,7 @@ authors:
   - admin
   - Rafael Gustavo de Souza
 doi: https://doi.org/10.31990/10.31990/agenda.ano.volume.numero
-url_pdf: https://www.agendapolitica.ufscar.br/index.php/agendapolitica/article/view/15/12
+publication: Agenda Política
 abstract: O tema dos movimentos sociais e sua dimensão política estão
   diretamente ligados ao processo de (re)construção de um regime democrático no
   país. Este tema foi preterido por nossos intelectuais, por um lado, pela
