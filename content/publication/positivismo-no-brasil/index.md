@@ -5,7 +5,6 @@ publication_types:
   - "0"
 authors:
   - admin
-url_pdf: https://www.redalyc.org/pdf/5886/588665414013.pdf
 publication: Controversias y Concurrencias Latinoamericanas
 abstract: >-
   Este artigo busca fazer uma reconstrução das influências do Positivismo no
@@ -35,10 +34,11 @@ abstract: >-
 
   científico e objetivo.
 draft: false
+url_pdf: https://www.redalyc.org/pdf/5886/588665414013.pdf
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-09-16T16:23:57.165Z
+date: 2023-09-16T16:10:00.000Z
 ---
