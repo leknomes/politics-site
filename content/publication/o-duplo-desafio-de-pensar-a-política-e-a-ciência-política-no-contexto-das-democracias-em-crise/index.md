@@ -8,6 +8,7 @@ authors:
   - Cristiano Rodrigues
   - Jorge Chaloub
 doi: https://doi.org/10.31068.310101
+url_pdf: https://www.teoriaepesquisa.ufscar.br/index.php/tp/article/view/1012/520
 publication: Revista Teoria & Pesquisa
 abstract: O ano de 2022 foi emblemático na história recente da república
   brasileira pós-1988 e, por conseguinte, desafiador para a reflexão da Ciência
