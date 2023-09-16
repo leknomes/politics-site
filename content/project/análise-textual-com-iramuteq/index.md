@@ -2,6 +2,7 @@
 title: Análise Textual com Iramuteq
 subtitle: ""
 date: 2023-09-16T13:17:16.349Z
+summary: C﻿urso de Análise Textual utilizando o software Iramuteq
 draft: false
 featured: false
 authors:
