@@ -6,6 +6,7 @@ draft: false
 featured: false
 authors:
   - admin
+  - Viviane Gonçalves Freitas
 tags:
   - cursos
 links:
