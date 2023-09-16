@@ -1,5 +1,5 @@
 ---
-title: PROGRAMAS DE GOVERNO E PROMESSAS DE CAMPANHA
+title: Programas de Governo e Promessas de Campanha
 publication_types:
   - "0"
 authors:
