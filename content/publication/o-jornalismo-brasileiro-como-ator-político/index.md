@@ -7,6 +7,7 @@ publication_types:
 authors:
   - admin
 doi: https://doi.org/10.21878/compolitica.2018.8.1.160
+publication: Compolítica
 abstract: O recém lançado livro “A grande imprensa e o PT (1989-2014)”, do
   professor titular Fernando Antônio de Azevedo (UFSCar), traz uma atual
   discussão sobre o viés político da imprensa brasileira diante de lideranças
