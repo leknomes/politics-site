@@ -107,10 +107,10 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: carmoguisilva@gmail.com
+      email: gosilva@ufscar.br
       contact_links:
-        - icon: twitter
+        - icon: instagram
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/'
+          name: Instagram
+          link: 'https://www.instagram.com/lucy_olivr/'
 ---
