@@ -5,7 +5,7 @@ publication_types:
   - "0"
 authors:
   - admin
-doi: aaaaa
+url_pdf: https://www.redalyc.org/pdf/5886/588665414013.pdf
 publication: Controversias y Concurrencias Latinoamericanas
 abstract: >-
   Este artigo busca fazer uma reconstrução das influências do Positivismo no
