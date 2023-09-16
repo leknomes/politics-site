@@ -8,7 +8,7 @@ authors:
   - admin
   - Viviane Gonçalves Freitas
 tags:
-  - cursos
+  - Cursos
 links:
   - url: https://www.instagram.com/cursojfar/
     name: Instagram
