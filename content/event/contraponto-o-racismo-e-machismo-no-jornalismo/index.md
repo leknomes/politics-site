@@ -14,7 +14,7 @@ publishDate: 2023-09-16T14:38:46.088Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: thumb-4.png
   focal_point: Smart
   preview_only: false
 ---
