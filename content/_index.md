@@ -105,7 +105,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contato
       # Contact (add or remove contact options as necessary)
       email: gosilva@ufscar.br
       contact_links:
