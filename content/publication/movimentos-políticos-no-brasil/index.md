@@ -25,5 +25,5 @@ image:
   filename: movimentos-políticos-na-contemporaneidade.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-09-16T16:17:21.689Z
+date: 2023-09-16T16:11:21.689Z
 ---
