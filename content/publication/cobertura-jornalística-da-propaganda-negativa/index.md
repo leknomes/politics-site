@@ -5,7 +5,7 @@ publication_types:
   - "0"
 authors:
   - admin
-doi: aaaaaa
+url_pdf: https://periodicos.fundaj.gov.br/CAD/article/view/1504/1263
 publication: Caderno de Estudos Sociais
 abstract: No momento em que o tema da propaganda negativa se constitui enquanto
   objeto de análise da Ciência Política brasileira, torna-se relevante
