@@ -5,7 +5,6 @@ publication_types:
   - "0"
 authors:
   - admin
-url_pdf: https://periodicos.fundaj.gov.br/CAD/article/view/1504/1263
 publication: Caderno de Estudos Sociais
 abstract: No momento em que o tema da propaganda negativa se constitui enquanto
   objeto de análise da Ciência Política brasileira, torna-se relevante
@@ -24,10 +23,11 @@ abstract: No momento em que o tema da propaganda negativa se constitui enquanto
   Também poder demonstrar como diferentes aportes podem ser combinados para dar
   inteligibilidade aos fenômenos políticos contemporâneos.
 draft: false
+url_pdf: https://periodicos.fundaj.gov.br/CAD/article/view/1504/1263
 featured: false
 image:
   filename: caderno-de-estudos-sociais.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-09-16T16:11:16.024Z
+date: 2023-09-16T16:12:16.024Z
 ---
