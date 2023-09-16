@@ -6,6 +6,7 @@ publication_types:
 authors:
   - admin
 doi: https://doi.org/10.21878/compolitica.2019.9.3.371
+url_pdf: http://compolitica.org/revista/index.php/revista/article/view/371/253
 publication: Compolítica
 abstract: Este trabalho buscou caracterizar e analisar a relação entre as
   agendas/enquadramentos da imprensa tradicional brasileira e da propaganda
