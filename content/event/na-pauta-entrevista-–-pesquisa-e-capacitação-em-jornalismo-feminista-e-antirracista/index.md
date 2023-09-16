@@ -11,7 +11,7 @@ abstract: Qual a relação entre a mídia e as lutas por justiça social? De que
   e de gênero no país. Nesta conversa, a docente do Departamento de Ciências
   Sociais da área de Ciência Política , Lucy Oliveira, explica a relação entre a
   comunicação e as lutas sociais.
-location: Youtube
+location: Página da UFSCar no Youtube
 date: 2023-04-25T12:50:47.690Z
 date_end: 2023-04-25T03:00:00.000Z
 all_day: false
