@@ -8,14 +8,18 @@ draft: false
 featured: false
 authors:
   - admin
-  - Maiara Garcia Orlandini
 tags:
   - Podcast
 links:
-  - name: Youtube
+  - name: Episódio 1
     icon_pack: fab
     icon: youtube
     url: https://www.youtube.com/watch?v=YHz6fi7-Z78
+links:
+  - name: Episódio 2
+    icon_pack: fab
+    icon: youtube
+    url: https://www.youtube.com/watch?v=Qdqn-M4ClXk
 image:
   filename: thumb-1.jpg
   focal_point: Smart
