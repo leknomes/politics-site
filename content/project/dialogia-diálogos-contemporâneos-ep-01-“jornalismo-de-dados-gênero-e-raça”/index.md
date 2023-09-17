@@ -24,7 +24,7 @@ links:
     icon_pack: fab
     icon: youtube
 image:
-  filename: ""
+  filename: thumb-1.jpg
   focal_point: Smart
   preview_only: false
 ---
