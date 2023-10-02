@@ -18,6 +18,7 @@ authors:
   - Jalile Elias
   - Malu Araujo
   - Melissa Mariano Joanin
+url_pdf: http://compolitica.org/revista/index.php/revista/article/view/371/253
 tags:
   - Entrevista
 image:
