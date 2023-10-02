@@ -11,6 +11,7 @@ authors:
   - Jalile Elias
   - Malu Araujo
   - Melissa Mariano Joanin
+url_pdf: file:///C:/Users/Fernanda/Downloads/Contraponto%20ed137%20Final%20web.pdf
 tags:
   - Revista
 image:
