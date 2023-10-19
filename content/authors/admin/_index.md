@@ -1,6 +1,4 @@
 ---
-title: Lucy Oliveira
-role: Professora de Ciência Política
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -19,6 +17,9 @@ organizations:
     url: https://www.ufscar.br/
 education:
   courses:
+    - course: Estágio de Pós-Doutorado
+      institution: Cebrap
+      year: 2018
     - course: Doutorado em Ciencia Politica
       institution: Universidade Federal de São Carlos
       year: "2017"
@@ -32,7 +33,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Professora de Ciência Política
 highlight_name: true
+title: Lucy Oliveira
 first_name: Alice
 email: ""
 ---
