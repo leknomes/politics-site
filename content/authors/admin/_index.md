@@ -18,7 +18,7 @@ organizations:
 education:
   courses:
     - course: Estágio de Pós-Doutorado
-      institution: Cebrap
+      institution: Centro Brasileiro de Análise e Planejamento
       year: 2018
     - course: Doutorado em Ciencia Politica
       institution: Universidade Federal de São Carlos
