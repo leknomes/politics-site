@@ -1,6 +1,6 @@
 ---
 title: Reunião Aberta "Horizontes de pesquisa em Comunicação e política
-date: 2023-10-22T22:52:54.714Z
+date: 2023-05-25T05:00:54.714Z
 draft: false
 featured: false
 authors:
