@@ -56,11 +56,31 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    content:
+      title: Participações
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    id: talks
+    content:
+      title: Entrevistas e Eventos
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: posts
     content:
       title: Recent Posts
       subtitle: ''
-      text: ''x
+      text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -82,16 +102,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
-    id: talks
-    content:
-      title: Entrevistas e Eventos
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
