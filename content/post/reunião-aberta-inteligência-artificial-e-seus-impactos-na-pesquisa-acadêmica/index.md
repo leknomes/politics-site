@@ -1,6 +1,6 @@
 ---
 title: Reunião Aberta "Inteligência Artificial e seus impactos na Pesquisa Acadêmica"
-date: 2023-10-22T22:56:30.900Z
+date: 2023-09-13T05:30:30.900Z
 draft: false
 featured: false
 authors:
