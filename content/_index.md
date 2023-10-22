@@ -56,16 +56,6 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    content:
-      title: Participações
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     id: talks
     content:
       title: Entrevistas e Eventos
