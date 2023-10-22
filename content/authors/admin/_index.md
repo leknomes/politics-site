@@ -17,9 +17,9 @@ organizations:
     url: https://www.ufscar.br/
 education:
   courses:
-    - course: Estágio de Pós-Doutorado
+    - course: Pós-Doutorado
       institution: Centro Brasileiro de Análise e Planejamento
-      year: 2018
+      year: 2019
     - course: Doutorado em Ciencia Politica
       institution: Universidade Federal de São Carlos
       year: "2017"
