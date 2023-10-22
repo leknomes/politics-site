@@ -1,10 +1,8 @@
 ---
 title: Programas de Governo e Promessas de Campanha
-publication_types:
-  - "0"
 authors:
-  - admin
   - Simone Diniz
+  - admin
 doi: 10.1590/1678-987320287606
 publication: Revista Sociologia e Política
 abstract: "O artigo analisa os programas de governo dos candidatos eleitos para
@@ -41,6 +39,8 @@ abstract: "O artigo analisa os programas de governo dos candidatos eleitos para
   desenvolvimento de futuras pesquisas sobre promessas de campanha."
 draft: false
 url_pdf: https://revistas.ufpr.br/rsp/article/view/81808/44183
+publication_types:
+  - "0"
 featured: false
 image:
   filename: featured
