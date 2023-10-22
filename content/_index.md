@@ -58,8 +58,8 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Decos
-      subtitle: ''
+      title: DECOS
+      subtitle: 'Grupo de pesquisa em Democracia, Comunicação e Sociedade, integrado ao Curso de Ciências Sociais da UFSCar.'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
