@@ -8,10 +8,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: gosilva@ufscar.br
   - icon: cv
     icon_pack: ai
     link: http://lattes.cnpq.br/4691243814521369
+  - display:
+      header: false
+    link: https://www.instagram.com/lucy_olivr/
+    icon_pack: fab
+    icon: instagram
+    label: Instagram
 organizations:
   - name: Universidade Federal De São Carlos (UFSCAR)
     url: https://www.ufscar.br/
@@ -41,6 +47,6 @@ email: ""
 ---
 <!--StartFragment-->
 
-Sou professora de Ciência Política no Departamento de Ciências Sociais (DCSo) e no Programa de Pós-Graduação em Ciência Política (PPGPol) da Universidade Federal de São Carlos (UFSCar). Além disso, coordeno a área de "Comunicação Política e Opinião Pública" na Associação Brasileira de Ciência Política (ABCP) e faço parte do conselho fiscal da Associação Brasileira de Pesquisadores em Comunicação e Política (COMPOLÍTICA). Sou líder do Núcleo de Estudos Integrados em Democracia, Comunicação e Sociedade (DECOS) e responsável pelo Laboratório de Dados e Técnicas em Ciência Política (Lab.Pol/PPGPol). Sou, também, mãe de Maria Luiza e João Vicente e estive de licença maternidade nos anos de 2018 e 2021
+Sou professora de Ciência Política no Departamento de Ciências Sociais (DCSo) e no Programa de Pós-Graduação em Ciência Política (PPGPol) da Universidade Federal de São Carlos (UFSCar). Sou líder do Núcleo de Estudos Integrados em Democracia, Comunicação e Sociedade (DECOS) e coordenadora docente do Laboratório de Dados e Técnicas em Ciência Política (Lab.Pol/PPGPol). Participo ainda de atividades ligadas a associações de área, sendo coordenadora da AT “Comunicação Política e Opinião Pública” da ABCP (Associação Brasileira de Ciência Política) e Conselheira Fiscal da COMPOLÍTICA (Associação Brasileira de Pesquisadores em Comunicação e Política). Sou mãe de Maria Luiza e João Vicente.
 
 <!--EndFragment-->
