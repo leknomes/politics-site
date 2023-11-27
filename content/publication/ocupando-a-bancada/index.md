@@ -20,6 +20,9 @@ abstract: "Quando tratamos de discussões de gênero, temos de, necessariamente,
   trans no telejornalismo brasileiro"
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/genero-e-inclusao/ocupando-a-bancada-invisibilidade-de-pessoas-trans-no-telejornalismo-brasileiro/
 image:
   filename: featured
   focal_point: Smart
