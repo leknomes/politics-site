@@ -17,12 +17,9 @@ abstract: Em todo início de ano, a programação das TVs abre os trabalhos a
   brasileiras/os não passa pela história sem reorganizar a vida por completo
 draft: false
 featured: false
-links:
-- name: Texto Completo
-  url: https://www.observatoriodaimprensa.com.br/genero-e-inclusao/enganou-se-quem-pensou-que-bbb-era-mero-entretenimento/
 image:
   filename: texto-10.-divulgação-768x432.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-11-27T19:03:30.639Z
+date: 2021-02-23T13:00:00.000Z
 ---
