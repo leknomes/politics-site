@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Viviane Freitas
   - admin
+publication: Observatório da Imprensa
 abstract: Faz pouco mais de uma semana que o mundo assistiu atônito às imagens
   da multidão de civis afegãos desesperados que se aglomeravam no aeroporto de
   Cabul, em busca de socorro. A cena de corpos despencando de um avião americano
