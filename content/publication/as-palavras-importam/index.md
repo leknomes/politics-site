@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Viviane Freitas
-publication: "Observatório da Imprensa "
+publication: "Observatório da Imprensa"
 abstract: "Qualquer pessoa que fez um curso de Comunicação Social ouviu uma
   lição fundamental: as palavras que usamos para construir nossas mensagens
   importam. Muitas vezes, são um dos recursos a nossa disposição para nos
@@ -15,6 +15,9 @@ abstract: "Qualquer pessoa que fez um curso de Comunicação Social ouviu uma
   público familiar e restrito, quer seja para grandes audiências e multidões."
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/imprensa-em-questao/as-palavras-importam/
 image:
   filename: 04_13_21_09-768x768.jpg
   focal_point: Smart
