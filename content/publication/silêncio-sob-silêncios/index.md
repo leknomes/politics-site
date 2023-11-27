@@ -19,6 +19,9 @@ abstract: Faz pouco mais de uma semana que o mundo assistiu atônito às imagens
   casa.
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/violencia/silencio-sob-silencios/
 image:
   filename: 02-1-768x464.jpeg
   focal_point: Smart
