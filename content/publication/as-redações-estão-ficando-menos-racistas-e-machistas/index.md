@@ -19,6 +19,9 @@ abstract: Hoje, nosso texto começa com um rápido exercício de memória. Se
   negritude, periferia e gênero?
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/entrevista/as-redacoes-estao-ficando-menos-racistas-e-machistas/
 image:
   filename: featured
   focal_point: Smart
