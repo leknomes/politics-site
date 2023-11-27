@@ -19,6 +19,9 @@ abstract: "Quando aceitamos a proposta de escrever sobre mídia, gênero e raça
   caminhos encontrados."
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/genero-e-inclusao/a-exaustao-materna-no-fantastico/
 image:
   filename: 3-mae-trabalho-730x413_1024x.jpeg
   focal_point: Smart
