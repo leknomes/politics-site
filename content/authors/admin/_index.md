@@ -8,7 +8,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#Contact"
+    link: "#contact"
   - icon: cv
     icon_pack: ai
     link: http://lattes.cnpq.br/4691243814521369
