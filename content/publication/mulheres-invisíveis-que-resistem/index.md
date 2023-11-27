@@ -20,6 +20,9 @@ abstract: a semana passada, o jornal El País publicou uma matéria intitulada �
   sobre o “porquê” esses ainda são dramas invisíveis.
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/genero-e-inclusao/mulheres-invisiveis-que-resistem/
 image:
   filename: texto-6.-marcelo-camargo-agencia-brasil-768x512.jpg
   focal_point: Smart
