@@ -17,6 +17,9 @@ abstract: “A senhora está totalmente descontrolada!”. Esta frase que reperc
   doméstico ou em espaços públicos.
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/conjuntura-nacional/na-politica-ou-onde-quisermos-estar-respeite-a-voz-das-mulheres/
 image:
   filename: 51499918102_3ffb1a9417_k-768x512.jpeg
   focal_point: Smart
