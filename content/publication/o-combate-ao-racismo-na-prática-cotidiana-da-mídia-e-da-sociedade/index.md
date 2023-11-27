@@ -19,6 +19,9 @@ abstract: Faz pouco mais de dois meses que uma das jornalistas símbolo da
   que foi marcado por homenagens à repórter, é um exemplo disso.
 draft: false
 featured: false
+links:
+- name: Texto Completo
+  url: https://www.observatoriodaimprensa.com.br/brasil/o-combate-ao-racismo-na-pratica-cotidiana-da-midia-e-da-sociedade/
 image:
   filename: captura-de-tela-2023-05-02-225321.png
   focal_point: Smart
